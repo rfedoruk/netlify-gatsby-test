@@ -49,5 +49,10 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "resolutions": {
+    "react": "^18.2.0",
+    "@types/react": "^18.0.17",
+    "react-dom": "^18.2.0"
   }
 }
