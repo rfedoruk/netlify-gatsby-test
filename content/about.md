@@ -1,4 +1,4 @@
 ---
 title: Test Title
-intro: I﻿ntro Paragrpah thing
+intro: intro paragraph test
 ---
